@@ -3,7 +3,7 @@
   display: Inline-block;  
   text-align: center;
   padding: 15px;
-  background-color: #23EB9A;
+  background-color: #313366;
   border-radius: 10px;
   align-items: Center;
   display: flex;
