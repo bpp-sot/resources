@@ -20,14 +20,8 @@
 </center>
 <br>
 
-<div class=box>
+<!-- <div class=box>
 <b>Select Topic:</b>&nbsp;&nbsp;&nbsp;&nbsp; @lab.DropDownList(module)[Item 1,Item 2,Item 3,Item 4, Item 5,Item 6,Item 7]
-</div>
+</div> -->
 
----
-No text detected.
-Try a screenshot instead.
-0
-:
-00
 
